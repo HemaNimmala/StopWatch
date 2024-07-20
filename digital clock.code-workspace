@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../internship"
+		},
+		{
+			"path": "../../portfolio"
+		},
+		{
+			"path": "../../tictactoe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tictactoe"
+	}
+}
